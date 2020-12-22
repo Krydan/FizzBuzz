@@ -1,0 +1,2 @@
+# FizzBuzz
+ Basic FizzBuzz solution! 
